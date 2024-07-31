@@ -1,11 +1,12 @@
 # Theme Clock
-![Theme Clock](https://www.nt-nn.com/_data/resources/img/thumbnails/17125.60_1_1000x1000.jpg)
-
 
 [Live Demo](https://9elmaz9.github.io/clock/)
 
+![Theme Clock](https://www.nt-nn.com/_data/resources/img/thumbnails/17125.60_1_1000x1000.jpg)
 
-A simple, themeable clock web application inspired by a [Dribbble shot](https://dribbble.com/shots/5958443-Alarm-clock).
+
+
+
 
 ## Features
 
